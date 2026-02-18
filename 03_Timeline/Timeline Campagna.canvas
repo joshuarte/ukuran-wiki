@@ -1,0 +1,9 @@
+{
+	"nodes":[
+		{"id":"f1bda81de20f37b5","type":"text","text":"SESSIONE 1","x":-158,"y":45,"width":250,"height":60},
+		{"id":"18d0e227a055851c","type":"text","text":"asdad","x":-158,"y":200,"width":250,"height":60}
+	],
+	"edges":[
+		{"id":"2e5df828a8e93565","fromNode":"f1bda81de20f37b5","fromSide":"bottom","toNode":"18d0e227a055851c","toSide":"top"}
+	]
+}

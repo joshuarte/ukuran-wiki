@@ -1,0 +1,289 @@
+{
+  "main": {
+    "id": "643fbe6c190b855e",
+    "type": "split",
+    "children": [
+      {
+        "id": "a8e7f8785c5fb3fc",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5aaa1ea31fd32a2f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "05_Manoscritto/01_AVVENTURE/Atto_II_Eroi_dei_Regni/03_Nodo_C_Isola_Scarti.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "03_Nodo_C_Isola_Scarti"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "8f6755176e303b1a",
+    "type": "split",
+    "children": [
+      {
+        "id": "8ce192ba3a4ce236",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "594446f48a74e0e2",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "12737e9d1e5f1e95",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "7956ebee2e093818",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 410.5
+  },
+  "right": {
+    "id": "2ca460353d17b85f",
+    "type": "split",
+    "children": [
+      {
+        "id": "ed341fdf46aec44b",
+        "type": "tabs",
+        "dimension": 62.46362754607178,
+        "children": [
+          {
+            "id": "fd5114f2afc6f974",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "05_Manoscritto/01_AVVENTURE/Atto_II_Eroi_dei_Regni/03_Nodo_C_Isola_Scarti.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for 03_Nodo_C_Isola_Scarti"
+            }
+          },
+          {
+            "id": "de212015de1a5560",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "05_Manoscritto/01_AVVENTURE/Atto_II_Eroi_dei_Regni/03_Nodo_C_Isola_Scarti.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from 03_Nodo_C_Isola_Scarti"
+            }
+          },
+          {
+            "id": "57ba748e3f01c38a",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "8c91edcb7b00e4d4",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "65d095241b6df4ec",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "05_Manoscritto/01_AVVENTURE/Atto_II_Eroi_dei_Regni/03_Nodo_C_Isola_Scarti.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of 03_Nodo_C_Isola_Scarti"
+            }
+          },
+          {
+            "id": "2897822e7ff64388",
+            "type": "leaf",
+            "state": {
+              "type": "smart-connections-view",
+              "state": {},
+              "icon": "smart-connections",
+              "title": "Connections"
+            }
+          },
+          {
+            "id": "0bbb936fefec9971",
+            "type": "leaf",
+            "state": {
+              "type": "smart-lookup-view",
+              "state": {},
+              "icon": "smart-lookup",
+              "title": "Lookup"
+            }
+          },
+          {
+            "id": "3af634be3a561253",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
+          }
+        ],
+        "currentTab": 7
+      },
+      {
+        "id": "7d52de0db97e84a1",
+        "type": "tabs",
+        "dimension": 37.53637245392822,
+        "children": [
+          {
+            "id": "4b37e628a9a03841",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 497.5
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false,
+      "smart-connections:Smart Connections: Open connections view": false,
+      "smart-connections:Smart Lookup: Open lookup view": false,
+      "smart-connections:Smart Connections: Open random connection": false,
+      "copilot:Open Copilot Chat": false,
+      "obsidian-git:Open Git source control": false
+    }
+  },
+  "active": "3af634be3a561253",
+  "lastOpenFiles": [
+    "05_Manoscritto/IL PREZZO DELL’OBLIO.md",
+    "01_Cast/Background_Integrati/Doni_di_Corvin.md",
+    "01_Cast/🧙🏻‍♂️ Personaggi Non Giocanti/Corvin Aethelmar.md",
+    "05_Manoscritto/01_AVVENTURE/Atto_III_Maestri_dei_Regni/01_La_Quinta_Cicatrice.md",
+    "05_Manoscritto/01_AVVENTURE/Atto_I/03_Sessione_Relitto.md",
+    "02_Atlas/I QUATTRO CONTINENTI/🌿 Xandaria Il Continente Selvaggio/🌋 Vulkania (Khor-Vash) L'Incudine delle Terre di V.md",
+    "02_Atlas/I QUATTRO CONTINENTI/🏛️ Aethelgard Il Continente delle Leggi.md",
+    "02_Atlas/I QUATTRO CONTINENTI/🏛️ Aethelgard Il Continente delle Leggi/🔅 Aethel-Primus Il Pinnacolo della Procedura.md",
+    "02_Atlas/I QUATTRO CONTINENTI/🏛️ Aethelgard Il Continente delle Leggi/💍 Porto-Sentenza L'Arsenale del Valore.md",
+    "05_Manoscritto/01_AVVENTURE/Atto_I/01_Sessione_Ultimo_Favore.md",
+    "04_Lore/Storia/⏳ Il Mondo Com'Era Prima Cronologia di Ukuran.md",
+    "04_Lore/Storia/📜 La Guerra del Desiderio L'Origine del Caos.md",
+    "04_Lore/IL GRANDE QUADRO.md",
+    "04_Lore/I QUATTRO CONTINENTI.md",
+    "04_Lore/INTRODUZIONE.md",
+    "04_Lore/Politica.md",
+    "04_Lore/Storia.md",
+    "05_Manoscritto/01_AVVENTURE/Atto_III_Il_Relitto_tra_le_Ombre.md",
+    "05_Manoscritto/01_AVVENTURE/Atto_II_Eroi_dei_Regni.md",
+    "04_Lore/Politica/🕵️ Spionaggio e Verifica Magica.md",
+    "deep_vault_cleanup.py",
+    "find_duplicates.py",
+    "smart_link_fixer.py",
+    "diagnostic_links.py",
+    "🌑 L'Era del Mondo Antico (M A ) 2ee48bad1bd080acaccecf2ecc70fdf5.md",
+    "04_Lore/Storia/⏳ Il Mondo Com'Era Prima Cronologia di Ukuran/🌑 L'Era del Mondo Antico (M A ).md",
+    "04_Lore/Storia/⏳ Il Mondo Com'Era Prima Cronologia di Ukuran/☀️ L'Era degli Dèi (E D ).md",
+    "04_Lore/Politica/✍🏻 Organizzazioni/🌐 L’Alleanza dei Regni Uniti (ARU).md",
+    "04_Lore/Politica/🗺️ Le Grandi Potenze/💍 La Gilda dei Mercanti Arcani.md",
+    "04_Lore/ABITANTI, CULTURA E PANTHEON/🏛️ Guida all'Estetica e Architettura di Ukuran.md",
+    "04_Lore/ABITANTI, CULTURA E PANTHEON/🌍 Le Razze nel Mondo/image.png",
+    "cleanup_links.py",
+    "rename_files.sh",
+    "97_Manuali",
+    "03_Timeline/Timeline Campagna.canvas",
+    "04_Lore/ABITANTI, CULTURA E PANTHEON/🌍 Le Razze nel Mondo/image 1.png",
+    "rules",
+    "04_Lore/ABITANTI, CULTURA E PANTHEON/🌍 Le Razze nel Mondo/image 3.png",
+    "04_Lore/ABITANTI, CULTURA E PANTHEON/🌍 Le Razze nel Mondo/image 2.png",
+    "04_Lore/ABITANTI, CULTURA E PANTHEON/🌍 Le Razze nel Mondo",
+    "04_Lore/ABITANTI, CULTURA E PANTHEON",
+    "04_Lore/Politica/🗺️ Le Grandi Potenze/💍 La Gilda dei Mercanti Arcani/image.png",
+    "04_Lore/Politica/✍🏻 Organizzazioni/🌐 I Custodi del Velo (CV)/image.png",
+    "04_Lore/Politica/🗺️ Le Grandi Potenze/image.png",
+    "02_Atlas/I QUATTRO CONTINENTI/🗼 Etra (Il Continente d'Acciaio)/🪞 Mindossa La Fenice di Specchi di Etra/image.png",
+    "02_Atlas/I QUATTRO CONTINENTI/🗼 Etra (Il Continente d'Acciaio)/🐲 Nuova Brigadail Il Cuore Meccanico dell'Ordine A/image.png",
+    "02_Atlas/I QUATTRO CONTINENTI/🏛️ Aethelgard Il Continente delle Leggi/🔅 Aethel-Primus Il Pinnacolo della Procedura/image.png"
+  ]
+}
