@@ -11,10 +11,14 @@
             "id": "7db3a630f3ee3c8e",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "02_Atlas/I QUATTRO CONTINENTI/❄️Hyperia Il Dominio del Ghiaccio Nero.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "❄️Hyperia Il Dominio del Ghiaccio Nero"
             }
           }
         ]
@@ -231,8 +235,17 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "7db3a630f3ee3c8e",
+  "active": "3af634be3a561253",
   "lastOpenFiles": [
+    "01_Cast/Personaggi Giocanti/Schede_PG/01_Vesper.md",
+    "sync-lor.py",
+    "sync-lore.py",
+    "sync-",
+    "01_Cast/Personaggi Giocanti/Schede_PG/00_PARTY_INFO.md",
+    "04_Lore/Politica/🗺️ Le Grandi Potenze/⚔️ Ferrum.md",
+    "01_Cast/Personaggi Giocanti/Vargan, “Il Debito”.md",
+    "02_Atlas/I QUATTRO CONTINENTI/🌿 Xandaria Il Continente Selvaggio.md",
+    "02_Atlas/I QUATTRO CONTINENTI/🌿 Xandaria Il Continente Selvaggio.txt",
     "05_Manoscritto/01_AVVENTURE/Atto_II_Eroi_dei_Regni/03_Nodo_C_Isola_Scarti.md",
     "05_Manoscritto/IL PREZZO DELL’OBLIO.md",
     "01_Cast/Background_Integrati/Doni_di_Corvin.md",
@@ -253,27 +266,17 @@
     "04_Lore/Storia.md",
     "05_Manoscritto/01_AVVENTURE/Atto_III_Il_Relitto_tra_le_Ombre.md",
     "05_Manoscritto/01_AVVENTURE/Atto_II_Eroi_dei_Regni.md",
-    "04_Lore/Politica/🕵️ Spionaggio e Verifica Magica.md",
     "deep_vault_cleanup.py",
     "find_duplicates.py",
     "smart_link_fixer.py",
     "diagnostic_links.py",
-    "🌑 L'Era del Mondo Antico (M A ) 2ee48bad1bd080acaccecf2ecc70fdf5.md",
-    "04_Lore/Storia/⏳ Il Mondo Com'Era Prima Cronologia di Ukuran/🌑 L'Era del Mondo Antico (M A ).md",
-    "04_Lore/Storia/⏳ Il Mondo Com'Era Prima Cronologia di Ukuran/☀️ L'Era degli Dèi (E D ).md",
-    "04_Lore/Politica/✍🏻 Organizzazioni/🌐 L’Alleanza dei Regni Uniti (ARU).md",
-    "04_Lore/Politica/🗺️ Le Grandi Potenze/💍 La Gilda dei Mercanti Arcani.md",
     "04_Lore/ABITANTI, CULTURA E PANTHEON/🌍 Le Razze nel Mondo/image.png",
     "cleanup_links.py",
     "rename_files.sh",
-    "97_Manuali",
     "03_Timeline/Timeline Campagna.canvas",
     "04_Lore/ABITANTI, CULTURA E PANTHEON/🌍 Le Razze nel Mondo/image 1.png",
-    "rules",
     "04_Lore/ABITANTI, CULTURA E PANTHEON/🌍 Le Razze nel Mondo/image 3.png",
     "04_Lore/ABITANTI, CULTURA E PANTHEON/🌍 Le Razze nel Mondo/image 2.png",
-    "04_Lore/ABITANTI, CULTURA E PANTHEON/🌍 Le Razze nel Mondo",
-    "04_Lore/ABITANTI, CULTURA E PANTHEON",
     "04_Lore/Politica/🗺️ Le Grandi Potenze/💍 La Gilda dei Mercanti Arcani/image.png",
     "04_Lore/Politica/✍🏻 Organizzazioni/🌐 I Custodi del Velo (CV)/image.png",
     "04_Lore/Politica/🗺️ Le Grandi Potenze/image.png",
