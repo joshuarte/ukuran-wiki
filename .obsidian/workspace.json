@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "a8e7f8785c5fb3fc",
+        "id": "a56e3c3d30c19717",
         "type": "tabs",
         "children": [
           {
-            "id": "5aaa1ea31fd32a2f",
+            "id": "7db3a630f3ee3c8e",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "05_Manoscritto/01_AVVENTURE/Atto_II_Eroi_dei_Regni/03_Nodo_C_Isola_Scarti.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "03_Nodo_C_Isola_Scarti"
+              "title": "New tab"
             }
           }
         ]
@@ -232,12 +228,12 @@
       "smart-connections:Smart Connections: Open connections view": false,
       "smart-connections:Smart Lookup: Open lookup view": false,
       "smart-connections:Smart Connections: Open random connection": false,
-      "copilot:Open Copilot Chat": false,
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "3af634be3a561253",
+  "active": "7db3a630f3ee3c8e",
   "lastOpenFiles": [
+    "05_Manoscritto/01_AVVENTURE/Atto_II_Eroi_dei_Regni/03_Nodo_C_Isola_Scarti.md",
     "05_Manoscritto/IL PREZZO DELL’OBLIO.md",
     "01_Cast/Background_Integrati/Doni_di_Corvin.md",
     "01_Cast/🧙🏻‍♂️ Personaggi Non Giocanti/Corvin Aethelmar.md",
@@ -267,7 +263,6 @@
     "04_Lore/Storia/⏳ Il Mondo Com'Era Prima Cronologia di Ukuran/☀️ L'Era degli Dèi (E D ).md",
     "04_Lore/Politica/✍🏻 Organizzazioni/🌐 L’Alleanza dei Regni Uniti (ARU).md",
     "04_Lore/Politica/🗺️ Le Grandi Potenze/💍 La Gilda dei Mercanti Arcani.md",
-    "04_Lore/ABITANTI, CULTURA E PANTHEON/🏛️ Guida all'Estetica e Architettura di Ukuran.md",
     "04_Lore/ABITANTI, CULTURA E PANTHEON/🌍 Le Razze nel Mondo/image.png",
     "cleanup_links.py",
     "rename_files.sh",
