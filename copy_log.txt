@@ -1,0 +1,95 @@
+
+-------------------------------------------------------------------------------
+   ROBOCOPY     ::     Copia di file efficace per Windows                              
+-------------------------------------------------------------------------------
+
+  Avviato: mercoledç 18 febbraio 2026 21:57:58
+      Origine : C:\Users\joshu\Desktop\ukuran-wiki\04_Lore\
+ Destinazione : C:\Users\joshu\Desktop\ukuran-wiki\quartz-site\content\04_Lore\
+
+         File: *.*
+	    
+      Opzioni: *.* /S /E /DCOPY:DA /COPY:DAT /R:1000000 /W:30 
+
+-------------------------------------------------------------------------------
+
+	Nuova directory       6	C:\Users\joshu\Desktop\ukuran-wiki\04_Lore\
+	    Nuovo file		     266	ABITANTI, CULTURA E PANTHEON.md100%  
+	    Nuovo file		     198	BESTIARIO E PERICOLI.md100%  
+	    Nuovo file		     413	FORZE ARCANE E TECNOLOGICHE.md100%  
+	    Nuovo file		    8539	I QUATTRO CONTINENTI.md100%  
+	    Nuovo file		      66	IL GRANDE QUADRO.md100%  
+	    Nuovo file		    4678	INTRODUZIONE.md100%  
+	Nuova directory       6	C:\Users\joshu\Desktop\ukuran-wiki\04_Lore\ABITANTI, CULTURA E PANTHEON\
+	    Nuovo file		    6287	? Il Dualismo di Ukuran Raido e Kanuan.md100%  
+	    Nuovo file		   10095	?? Le Razze nel Mondo.md100%  
+	    Nuovo file		    3413	?? La Grana del Quotidiano Vivere su Ukuran.md100%  
+	    Nuovo file		    3582	??? Guida all'Estetica e Architettura di Ukuran.md100%  
+	    Nuovo file		    3600	??? Eroi Popolari e Martiri della Fucina.md100%  
+	    Nuovo file		    1186	?????? Personaggi Non Giocanti.md100%  
+	Nuova directory       4	C:\Users\joshu\Desktop\ukuran-wiki\04_Lore\ABITANTI, CULTURA E PANTHEON\?? Le Razze nel Mondo\
+	    Nuovo file		  976788	image 1.png100%  
+	    Nuovo file		 1034835	image 2.png100%  
+	    Nuovo file		  950334	image 3.png100%  
+	    Nuovo file		  930932	image.png100%  
+	Nuova directory       5	C:\Users\joshu\Desktop\ukuran-wiki\04_Lore\BESTIARIO E PERICOLI\
+	    Nuovo file		    2569	?? Fenomeni Atmosferici Industriali e Miasmi.md100%  
+	    Nuovo file		    3517	?? BiodiversitÖ e Fauna Continentale.md100%  
+	    Nuovo file		    7853	?? Tassonomia delle Minacce nell'Era della Convenzi.md100%  
+	    Nuovo file		    3612	?? Le cicatrici del mana.md100%  
+	    Nuovo file		    3303	?? Ecologia dello Scarto e Residui Arcani.md100%  
+	Nuova directory       6	C:\Users\joshu\Desktop\ukuran-wiki\04_Lore\FORZE ARCANE E TECNOLOGICHE\
+	    Nuovo file		    3847	Il senso della morte.md100%  
+	    Nuovo file		    4518	?? Lo Spazio Vuoto (L'Oltre-Mondo).md100%  
+	    Nuovo file		    5302	?? Fonti del potere.md100%  
+	    Nuovo file		    2885	?? Artifatti Iconici e Legacy.md100%  
+	    Nuovo file		    3589	?? Risorse Strategiche.md100%  
+	    Nuovo file		   10828	?? Innesti di Creature Artificiali.md100%  
+	Nuova directory       6	C:\Users\joshu\Desktop\ukuran-wiki\04_Lore\Politica\
+	    Nuovo file		     590	??? Organizzazioni.md100%  
+	    Nuovo file		    6698	?? La Convenzione degli Incantatori.md100%  
+	    Nuovo file		    6533	??? Spionaggio e Verifica Magica.md100%  
+	    Nuovo file		    3180	??? La Ragnatela delle Ombre Scambio di Segreti.md100%  
+	    Nuovo file		    5675	??? Le Grandi Potenze.md100%  
+	    Nuovo file		    3148	?? Logistica e Rotte del Commercio.md100%  
+	Nuova directory       8	C:\Users\joshu\Desktop\ukuran-wiki\04_Lore\Politica\??? Organizzazioni\
+	    Nuovo file		    5474	?? AutoritÖ per la Verifica Arcana (AVA).md100%  
+	    Nuovo file		    3392	?? Gli Ultimi Karilh.md100%  
+	    Nuovo file		    5298	?? I Custodi del Velo (CV).md100%  
+	    Nuovo file		    5230	?? Il Concilio degli Splendenti.md100%  
+	    Nuovo file		    5247	?? Il Sigillo Di Ferro (SF).md100%  
+	    Nuovo file		    5198	?? L'Ordine dei Rinuncianti.md100%  
+	    Nuovo file		    6075	?? Le Tre Torri.md100%  
+	    Nuovo file		    6874	?? L'Alleanza dei Regni Uniti (ARU).md100%  
+	Nuova directory       1	C:\Users\joshu\Desktop\ukuran-wiki\04_Lore\Politica\??? Organizzazioni\?? I Custodi del Velo (CV)\
+	    Nuovo file		   1.9 m	image.png 52%  100%  
+	Nuova directory       7	C:\Users\joshu\Desktop\ukuran-wiki\04_Lore\Politica\??? Le Grandi Potenze\
+	    Nuovo file		   2.3 m	image.png 42%   85%  100%  
+	    Nuovo file		    8895	?? Ferrum.md100%  
+	    Nuovo file		    8233	?? Il Sultanato del Ghiaccio Nero.md100%  
+	    Nuovo file		    7730	?? Il Regno Dragonide.md100%  
+	    Nuovo file		    6242	?? La Gilda dei Mercanti Arcani.md100%  
+	    Nuovo file		    6062	?? Heliopolis.md100%  
+	    Nuovo file		    5254	?? Karak-Zul.md100%  
+	Nuova directory       1	C:\Users\joshu\Desktop\ukuran-wiki\04_Lore\Politica\??? Le Grandi Potenze\?? La Gilda dei Mercanti Arcani\
+	    Nuovo file		   1.8 m	image.png 55%  100%  
+	Nuova directory       2	C:\Users\joshu\Desktop\ukuran-wiki\04_Lore\Storia\
+	    Nuovo file		    4749	? Il Mondo Com'Era Prima Cronologia di Ukuran.md100%  
+	    Nuovo file		    4347	?? La Guerra del Desiderio L'Origine del Caos.md100%  
+	Nuova directory       2	C:\Users\joshu\Desktop\ukuran-wiki\04_Lore\Storia\? Il Mondo Com'Era Prima Cronologia di Ukuran\
+	    Nuovo file		    5944	?? L'Era degli Däi (E D ).md100%  
+	    Nuovo file		    6850	?? L'Era del Mondo Antico (M A ).md100%  
+
+-------------------------------------------------------------------------------
+
+              Totale   Copiato  IgnorateNon corrispondentiNon riuscitaSupplementari
+Directory:        12        12         0         0         0         0
+     File:        54        54         0         0         0         0
+     Byte:    9.97 m    9.97 m         0         0         0         0
+   Durata:   0:00:00   0:00:00                       0:00:00   0:00:00
+
+
+ VelocitÖ:           227.369.695 Byte/sec.
+ VelocitÖ:             13010,198 MB/min.
+   Terminato: mercoledç 18 febbraio 2026 21:57:58
+

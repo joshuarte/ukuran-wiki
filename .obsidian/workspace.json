@@ -172,8 +172,8 @@
             "state": {
               "type": "smart-connections-view",
               "state": {},
-              "icon": "smart-connections",
-              "title": "Connections"
+              "icon": "lucide-ghost",
+              "title": "smart-connections-view"
             }
           },
           {
@@ -182,8 +182,8 @@
             "state": {
               "type": "smart-lookup-view",
               "state": {},
-              "icon": "smart-lookup",
-              "title": "Lookup"
+              "icon": "lucide-ghost",
+              "title": "smart-lookup-view"
             }
           },
           {
@@ -235,8 +235,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "3af634be3a561253",
+  "active": "594446f48a74e0e2",
   "lastOpenFiles": [
+    "aggiorna_wiki.bat",
     "01_Cast/Personaggi Giocanti/Schede_PG/01_Vesper.md",
     "sync-lor.py",
     "sync-lore.py",
