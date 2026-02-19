@@ -1,6 +1,6 @@
 # L'Enigma del Margine
 
-![[02_Atlas/I%20QUATTRO%20CONTINENTI/❄️Hyperia%20Il%20Dominio%20del%20Ghiaccio%20Nero/❄️%20Kozlov-Grad%20L'Enigma%20del%20Margine/image.png|image.png]]
+![[99_Allegati/❄️ Kozlov-Grad.png|❄️ Kozlov-Grad.png]]
 
 Kozlov-Grad non è semplicemente una città; è una sfida lanciata all'entropia del mondo. Situata nel **Margine degli Eterni**, al limitare meridionale di Hyperia, questa metropoli funge da diga contro l'oblio bianco del Deserto di Al-Azhir. Architettonicamente, la città è un trionfo di ossidiana, ferro nero e cristalli di Ghiaccio Purissimo, dominata da guglie così sottili e alte da sembrare aghi intenti a ricucire il cielo plumbeo del sud.
 

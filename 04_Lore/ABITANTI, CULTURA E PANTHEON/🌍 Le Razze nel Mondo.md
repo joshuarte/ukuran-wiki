@@ -4,7 +4,7 @@ In questo mondo post-bellico, la "razza" ha smesso di essere un concetto biologi
 
 ### 🧝 Elfi: I Custodi del Declino e della Procedura
 
-![[../../IL%20PREZZO%20DELL%E2%80%99OBLIO/CAMPAGNA/AVVENTURE/Atto%20II%20Congiure%20e%20Scintille/image.png|image.png]]
+![[99_Allegati/🌍 Le Razze nel Mondo_2.png|🌍 Le Razze nel Mondo_2.png]]
 
 La caduta dell'Antico Regno Elfico non ha solo distrutto un impero, ha spezzato l'identità di una specie. Oggi, la longevità elfica è diventata un peso rituale o un fardello ideologico, a seconda del continente di residenza.
 
@@ -15,7 +15,7 @@ La caduta dell'Antico Regno Elfico non ha solo distrutto un impero, ha spezzato 
 
 ### 🐲 Dragonidi: L'Apice della Gerarchia e il Peso della Perfezione
 
-![[../../IL%20PREZZO%20DELL%E2%80%99OBLIO/CAMPAGNA/AVVENTURE/Atto%20II%20Congiure%20e%20Scintille/image%201.png|image.png]]
+![[99_Allegati/🌍 Le Razze nel Mondo_2.png|🌍 Le Razze nel Mondo_2.png]]
 
 Nati dalle ceneri della Guerra del Desiderio, i Dragonidi non si considerano una specie tra le altre, ma l'ordine naturale incarnato. Tuttavia, la loro società è una piramide spietata.
 
@@ -26,7 +26,7 @@ Nati dalle ceneri della Guerra del Desiderio, i Dragonidi non si considerano una
 
 ### ⚒️ Nani: I Tecnici del Mondo e i Contabili dell'Esistenza
 
-![[../../IL%20PREZZO%20DELL%E2%80%99OBLIO/CAMPAGNA/AVVENTURE/Atto%20II%20Congiure%20e%20Scintille/image%202.png|image.png]]
+![[99_Allegati/🌍 Le Razze nel Mondo_2.png|🌍 Le Razze nel Mondo_2.png]]
 
 La cultura nanica è passata dalla gloria epica delle canzoni di miniera alla precisione delle fucine e dei registri di bronzo.
 
@@ -37,7 +37,7 @@ La cultura nanica è passata dalla gloria epica delle canzoni di miniera alla pr
 
 ### 👤 Umani: La Linfa Adattabile e il Motore della Crisi
 
-![[../../IL%20PREZZO%20DELL%E2%80%99OBLIO/CAMPAGNA/AVVENTURE/Atto%20III%20Il%20Relitto%20tra%20le%20Ombre/image%203.png|image.png]]
+![[99_Allegati/🌍 Le Razze nel Mondo_2.png|🌍 Le Razze nel Mondo_2.png]]
 
 Senza una nazione propria che non sia un mosaico di altre culture, gli umani fungono da "linfa vitale" tra gli ingranaggi delle grandi potenze.
 

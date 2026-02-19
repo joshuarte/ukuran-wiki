@@ -1,6 +1,6 @@
 # 🌐 I Custodi del Velo (CV)
 
-![[../../../../IL%20PREZZO%20DELL%E2%80%99OBLIO/CAMPAGNA/AVVENTURE/Atto%20II%20Congiure%20e%20Scintille/image.png|image.png]]/image.png)
+![[99_Allegati/🌐 I Custodi del Velo (CV).png|🌐 I Custodi del Velo (CV).png]]/image.png)
 
 ## ⚡ IDENTITÀ IN BREVE
 

@@ -1,6 +1,6 @@
 # Corvin Aethelmar
 
-![[../../CAMPAGNA/AVVENTURE/Atto%20II%20Congiure%20e%20Scintille/image.png|image.png]]
+![[99_Allegati/Corvin Aethelmar.png|Corvin Aethelmar.png]]
 
 **Elfo Guerriero 3° Livello, Bardo 5° Livello, Ladro 6° Livello.**
 

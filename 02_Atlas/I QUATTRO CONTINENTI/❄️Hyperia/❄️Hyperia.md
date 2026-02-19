@@ -1,6 +1,6 @@
 # Il Dominio del Ghiaccio Nero
 
-![[02_Atlas/I%20QUATTRO%20CONTINENTI/❄️Hyperia%20Il%20Dominio%20del%20Ghiaccio%20Nero/image.png|image.png]]
+![[99_Allegati/❄️Hyperia.png|❄️Hyperia.png]]
 
 Hyperia è un continente di contrasti estremi: distese di ghiaccio spietate, vette che toccano le stelle e città sotterranee alimentate dal calore delle profondità. È la patria del Sultanato, una potenza imperiale che ha trasformato l'ostilità del clima nella sua più grande dottrina di difesa. Qui, il freddo non è solo un fenomeno atmosferico, ma uno strumento di dominio: l'energia termica è la risorsa più preziosa e il Sultanato ne detiene il **Privilegio Unico** attraverso la custodia del Ghiaccio Purissimo.
 

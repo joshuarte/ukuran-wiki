@@ -1,6 +1,6 @@
 # La Fenice di Specchi di Etra
 
-![[🗼 Etra (Il Continente d'Acciaio)|image.png]]/🪞%20Mindossa%20La%20Fenice%20di%20Specchi%20di%20Etra/image.png)
+![[99_Allegati/🪞 Mindossa.png|🪞 Mindossa.png]]/🪞%20Mindossa%20La%20Fenice%20di%20Specchi%20di%20Etra/image.png)
 
 Mindossa è il fantasma dorato dell'antico Impero Dragonide che si rifiuta di svanire, una visione di opulenza che sorge come un miraggio tra le rocce ferrose dell'**Altopiano del Monolito**. Situata in una posizione strategica che domina le rotte commerciali centrali di Etra, la città non è fatta solo di pietra e acciaio, ma di riflessi infiniti e geometrie impossibili. Parzialmente rasa al suolo durante la devastante Guerra del Desiderio, la metropoli è stata l'oggetto di un titanico sforzo di ricostruzione orchestrato dalla Regina Drago. Se Nuova Brigadail rappresenta il futuro delle fucine, la forza bruta e la funzione pura, Mindossa è il simbolo vivente della continuità, del prestigio del lignaggio e della magnificenza perduta che la Corona intende reclamare. L'architettura esotica, caratterizzata da linee sinuose che imitano il movimento dei serpenti alati, cupole rivestite di scaglie dorate e archi che sembrano sfidare le leggi della gravità, è stata meticolosamente preservata e fusa con gli antichi riti di stasi e stabilizzazione dell'essenza.
 

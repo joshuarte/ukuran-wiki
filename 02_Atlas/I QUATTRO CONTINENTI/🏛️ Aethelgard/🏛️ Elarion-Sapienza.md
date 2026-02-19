@@ -1,6 +1,6 @@
 # L'Accademia del Mondo
 
-![[02_Atlas/I%20QUATTRO%20CONTINENTI/🏛️%20Aethelgard%20Il%20Continente%20delle%20Leggi/🏛️%20Elarion-Sapienza%20L'Accademia%20del%20Mondo/image.png|image.png]]
+![[99_Allegati/🏛️ Elarion-Sapienza.png|🏛️ Elarion-Sapienza.png]]
 
 ## 🌍 Panoramica Generale
 

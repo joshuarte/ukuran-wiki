@@ -1,6 +1,6 @@
 # Il Cuore Meccanico dell'Ordine Assoluto
 
-![[🗼 Etra (Il Continente d'Acciaio)|image.png]]/🐲%20Nuova%20Brigadail%20Il%20Cuore%20Meccanico%20dell'Ordine%20A/image.png)
+![[99_Allegati/🐲 Nuova Brigadail.png|🐲 Nuova Brigadail.png]]/🐲%20Nuova%20Brigadail%20Il%20Cuore%20Meccanico%20dell'Ordine%20A/image.png)
 
 Nuova Brigadail non è solo una città; è un monito di metallo e pietra che si erge con arrogante precisione al centro dell'Altopiano del Monolito. Edificata sulle macerie ancora calde della vecchia Brigadail dopo la devastazione della Guerra del Desiderio, la metropoli funge da manifesto architettonico dell'Ordine Assoluto propugnato dalla Regina Drago. Camminare per le sue strade significa percepire fisicamente il peso di una civiltà che ha barattato la libertà individuale con una stabilità delle fucine d'acciaio. Grandi arterie perfettamente rettilinee, pavimentate in pesanti blocchi di basalto e ferro, tagliano la città come ferite chirurgiche, mentre imponenti **Torri dei Fumi** espellono vapori carichi di residui arcani che tingono il cielo di un perenne arancio ruggine, simile al colore del sangue ossidato.
 

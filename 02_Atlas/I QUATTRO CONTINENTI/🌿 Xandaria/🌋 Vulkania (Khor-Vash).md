@@ -1,6 +1,6 @@
 # L'Incudine delle Terre di Vivofuoco
 
-![[../../../IL%20PREZZO%20DELL%E2%80%99OBLIO/CAMPAGNA/AVVENTURE/Atto%20II%20Congiure%20e%20Scintille/image.png|image.png]]%20L'Incudine%20delle%20Terre%20di%20V/image.png)
+![[99_Allegati/🌋 Vulkania (Khor-Vash).png|🌋 Vulkania (Khor-Vash).png]]%20L'Incudine%20delle%20Terre%20di%20V/image.png)
 
 ## 🌍 Panoramica Generale
 

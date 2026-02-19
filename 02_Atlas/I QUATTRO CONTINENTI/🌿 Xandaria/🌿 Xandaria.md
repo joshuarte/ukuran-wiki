@@ -1,6 +1,6 @@
 # Il Continente Selvaggio
 
-![[02_Atlas/I%20QUATTRO%20CONTINENTI/🌿%20Xandaria%20Il%20Continente%20Selvaggio/image.png|image.png]]
+![[99_Allegati/🌿 Xandaria.png|🌿 Xandaria.png]]
 
 Xandaria è l'antitesi della civiltà monolitica. Mentre il resto del mondo si consuma nel debito e nelle fucine di Etra, Xandaria respira con una forza primordiale e violenta. È una terra di giungle impenetrabili, fiumi impetuosi e fiamme della terra che modellano il paesaggio. Qui non esistono regni centrali: esistono solo avamposti fortificati, tribù che difendono i propri santuari e spedizioni straniere pronte a tutto per una briciola di **Mana Grezzo**.
 

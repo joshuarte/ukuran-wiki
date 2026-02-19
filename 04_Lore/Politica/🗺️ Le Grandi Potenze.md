@@ -1,6 +1,6 @@
 # 🗺️ Le Grandi Potenze
 
-![[04_Lore/Politica/🗺️%20Le%20Grandi%20Potenze/image.png|image.png]]
+![[99_Allegati/🗺️ Le Grandi Potenze.png|🗺️ Le Grandi Potenze.png]]
 
 1. [[🐲 Il Regno Dragonide|**🐲 Il Regno Dragonide**]]
 2. [[❄️ Il Sultanato del Ghiaccio Nero|**❄️ Il Sultanato del Ghiaccio Nero**]]

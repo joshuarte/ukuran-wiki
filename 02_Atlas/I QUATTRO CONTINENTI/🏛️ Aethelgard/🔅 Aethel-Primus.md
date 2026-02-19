@@ -1,6 +1,6 @@
 # Il Pinnacolo della Procedura
 
-![[02_Atlas/I%20QUATTRO%20CONTINENTI/🏛️%20Aethelgard%20Il%20Continente%20delle%20Leggi/🔅%20Aethel-Primus%20Il%20Pinnacolo%20della%20Procedura/image.png|image.png]]
+![[99_Allegati/🔅 Aethel-Primus.png|🔅 Aethel-Primus.png]]
 
 Aethel-Primus non è solo una capitale; è l'incarnazione architettonica del concetto di "Ordine". Situata nell'Altamarca del Velo, la città non poggia interamente sul suolo: la sua parte centrale, un'immensa piattaforma di marmo bianco e vetro, fluttua a diverse centinaia di metri d'altezza grazie a colossali **vincoli di luce** e ancoraggi del rito. Camminare per le sue strade significa essere immersi in una luce perenne e zenitale, riflessa dalle superfici immacolate che rendono quasi invisibile la polvere. Qui, il caos della natura è stato sottomesso dalla Procedura: ogni albero nei parchi è potato secondo geometrie sacre, e il flusso dei cittadini è regolato da segnali luminosi che rispondono a **leggi della proporzione** e di armonia sociale.
 

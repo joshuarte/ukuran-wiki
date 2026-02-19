@@ -111,7 +111,7 @@ Un **Ariete Pneumatico** sfonda la parete esterna della torre.
 * **Caos:** Condotti a vapore che esplodono, fumo denso.
 * **Obiettivo PG:** Recuperare l'equipaggiamento pignorato e fuggire prima che i rinforzi del **Sigillo di Ferro** chiudano il settore.
 
-![[05_Manoscritto/assets/image%201.png|image 1.png]]
+![[99_Allegati/assets_3.png|assets_3.png]]
 
 ---
 
@@ -131,7 +131,7 @@ Nella Piazza delle Tre Firme, il carico viene colpito accidentalmente. Il Ghiacc
 * **Fine della Realtà:** I colori svaniscono, il suono scompare. Una voce sussurra: *"Ricordate... è l'unica cosa che vi terrà interi."*
 * **Il Salto:** La realtà collassa. I PG precipitano verso le **Città Dimenticate**.
 
-![[05_Manoscritto/assets/image%202.png|image 2.png]]
+![[99_Allegati/assets_6.png|assets_6.png]]
 
 ---
 

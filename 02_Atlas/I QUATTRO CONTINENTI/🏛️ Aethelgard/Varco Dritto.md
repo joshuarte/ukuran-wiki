@@ -1,6 +1,6 @@
 # 🏛️ Varco Dritto: La Porta del Vincolo
 
-![[02_Atlas/I%20QUATTRO%20CONTINENTI/🏛️%20Aethelgard%20Il%20Continente%20delle%20Leggi/Varco%20Dritto/image.png|image.png]]
+![[99_Allegati/Varco Dritto.png|Varco Dritto.png]]
 
 ## 🌍 Panoramica Generale
 

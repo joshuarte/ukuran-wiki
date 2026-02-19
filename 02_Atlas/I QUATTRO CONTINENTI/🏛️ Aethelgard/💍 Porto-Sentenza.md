@@ -1,6 +1,6 @@
 # L'Arsenale del Valore
 
-![[02_Atlas/I%20QUATTRO%20CONTINENTI/🏛️%20Aethelgard%20Il%20Continente%20delle%20Leggi/💍%20Porto-Sentenza%20L'Arsenale%20del%20Valore/image.png|image.png]]
+![[99_Allegati/💍 Porto-Sentenza.png|💍 Porto-Sentenza.png]]
 
 Porto-Sentenza non è una città costruita per la bellezza, ma per l'efficienza. Situata nel sud-est di Aethelgard, dove le scogliere di marmo bianco si tuffano nell'Oceano dei Debiti, la capitale della Gilda dei Mercanti Arcani (GMA) appare come un'immensa gradinata di banchine fortificate, **magazzini degli artifici** e uffici dei sigilli che risalgono il fianco della costa. Qui, il concetto di patria è stato sostituito da quello di **Vincolo Aureo**: non si nasce cittadini di Porto-Sentenza, si viene approvati come investitori o accettati come debitori a lungo termine.
 

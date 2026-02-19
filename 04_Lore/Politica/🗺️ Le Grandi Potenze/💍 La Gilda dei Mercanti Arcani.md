@@ -1,6 +1,6 @@
 # 💍 La Gilda dei Mercanti Arcani
 
-![[04_Lore/Politica/🗺️%20Le%20Grandi%20Potenze/💍%20La%20Gilda%20dei%20Mercanti%20Arcani/image.png|image.png]]
+![[99_Allegati/💍 La Gilda dei Mercanti Arcani.png|💍 La Gilda dei Mercanti Arcani.png]]
 
 **Epiteto nelle Corti:** La Sovranità del Patto / I Signori delle Lanterne
 **Stirpi:** Multirazziale (Umani, Gnomi e Tiefling burocrati).

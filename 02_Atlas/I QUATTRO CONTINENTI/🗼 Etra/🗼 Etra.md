@@ -1,6 +1,6 @@
 # Il Continente d'Acciaio
 
-![[../../IL%20PREZZO%20DELL%E2%80%99OBLIO/CAMPAGNA/AVVENTURE/Atto%20II%20Congiure%20e%20Scintille/image.png|image.png]]/image.png)
+![[99_Allegati/🗼 Etra.png|🗼 Etra.png]]/image.png)
 
 # 🗺️ Guida Geografica di Etra
 

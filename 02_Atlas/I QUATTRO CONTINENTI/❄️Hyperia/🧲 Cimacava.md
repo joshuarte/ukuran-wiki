@@ -1,6 +1,6 @@
 # Il Trono nel Cuore
 
-![[02_Atlas/I%20QUATTRO%20CONTINENTI/❄️Hyperia%20Il%20Dominio%20del%20Ghiaccio%20Nero/🧲%20Cimacava%20Il%20Trono%20nel%20Cuore/image.png|image.png]]
+![[99_Allegati/🧲 Cimacava.png|🧲 Cimacava.png]]
 
 Cimacava è l'apoteosi dell'ingegneria nanica, una metropoli cilindrica monumentale che perfora verticalmente i **Monti d'Inverno** per chilometri. Se le altre città del mondo si estendono in superficie, Cimacava sfida la profondità, spingendosi fin dove la pressione e il calore diventano simboli di status divino e politico. Camminare per Cimacava significa percepire la vibrazione costante delle enormi trivelle e dei **Magli della Terra** che stabilizzano la crosta terrestre; è un luogo dove l'architettura non è estetica, ma funzione pura, incisa nella roccia con precisione millimetrica.
 

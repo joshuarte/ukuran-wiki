@@ -1,6 +1,6 @@
 # Vargan, “Il Debito”
 
-![[../../CAMPAGNA/AVVENTURE/Atto%20II%20Congiure%20e%20Scintille/image.png|image.png]]
+![[99_Allegati/Vargan, “Il Debito”.png|Vargan, “Il Debito”.png]]
 
 ### 1. Infanzia: Il Sangue nella Giungla (0-12 anni)
 

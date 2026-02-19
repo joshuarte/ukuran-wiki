@@ -1,6 +1,6 @@
 # Il Continente delle Leggi
 
-![[02_Atlas/I%20QUATTRO%20CONTINENTI/🏛️%20Aethelgard%20Il%20Continente%20delle%20Leggi/image.png|image.png]]
+![[99_Allegati/🏛️ Aethelgard.png|🏛️ Aethelgard.png]]
 
 Aethelgard è la culla della civiltà monolitica e il fulcro della diplomazia globale. È un continente caratterizzato da paesaggi armoniosi, città monumentali in marmo bianco e una rete di vie che farebbe invidia a qualsiasi impero del passato. Tuttavia, dietro la bellezza dei suoi vigneti e delle sue accademie, si nasconde un giogo dei sigilli e dei dazi sacri che non lascia spazio all'incertezza.
 
