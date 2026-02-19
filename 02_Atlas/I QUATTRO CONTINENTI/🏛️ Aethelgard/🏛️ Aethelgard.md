@@ -1,4 +1,4 @@
-# 🏛️ Aethelgard: Il Continente delle Leggi
+# Il Continente delle Leggi
 
 ![[02_Atlas/I%20QUATTRO%20CONTINENTI/🏛️%20Aethelgard%20Il%20Continente%20delle%20Leggi/image.png|image.png]]
 

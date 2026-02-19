@@ -1,4 +1,4 @@
-# 🌋 Vulkania (Khor-Vash): L'Incudine delle Terre di Vivofuoco
+# L'Incudine delle Terre di Vivofuoco
 
 ![[../../../IL%20PREZZO%20DELL%E2%80%99OBLIO/CAMPAGNA/AVVENTURE/Atto%20II%20Congiure%20e%20Scintille/image.png|image.png]]%20L'Incudine%20delle%20Terre%20di%20V/image.png)
 

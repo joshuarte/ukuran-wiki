@@ -1,4 +1,4 @@
-# 🌿 Xandaria: Il Continente Selvaggio
+# Il Continente Selvaggio
 
 ![[02_Atlas/I%20QUATTRO%20CONTINENTI/🌿%20Xandaria%20Il%20Continente%20Selvaggio/image.png|image.png]]
 

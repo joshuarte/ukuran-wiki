@@ -1,4 +1,4 @@
-# 🔅 Aethel-Primus: Il Pinnacolo della Procedura
+# Il Pinnacolo della Procedura
 
 ![[02_Atlas/I%20QUATTRO%20CONTINENTI/🏛️%20Aethelgard%20Il%20Continente%20delle%20Leggi/🔅%20Aethel-Primus%20Il%20Pinnacolo%20della%20Procedura/image.png|image.png]]
 

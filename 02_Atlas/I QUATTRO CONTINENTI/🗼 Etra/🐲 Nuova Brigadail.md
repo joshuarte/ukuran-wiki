@@ -1,4 +1,4 @@
-# 🐲 Nuova Brigadail: Il Cuore Meccanico dell'Ordine Assoluto
+# Il Cuore Meccanico dell'Ordine Assoluto
 
 ![[🗼 Etra (Il Continente d'Acciaio)|image.png]]/🐲%20Nuova%20Brigadail%20Il%20Cuore%20Meccanico%20dell'Ordine%20A/image.png)
 

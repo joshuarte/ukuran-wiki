@@ -1,4 +1,4 @@
-# 🪞 Mindossa: La Fenice di Specchi di Etra
+# La Fenice di Specchi di Etra
 
 ![[🗼 Etra (Il Continente d'Acciaio)|image.png]]/🪞%20Mindossa%20La%20Fenice%20di%20Specchi%20di%20Etra/image.png)
 

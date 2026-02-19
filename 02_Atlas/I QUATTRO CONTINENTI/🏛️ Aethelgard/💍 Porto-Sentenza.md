@@ -1,4 +1,4 @@
-# 💍 Porto-Sentenza: L'Arsenale del Valore
+# L'Arsenale del Valore
 
 ![[02_Atlas/I%20QUATTRO%20CONTINENTI/🏛️%20Aethelgard%20Il%20Continente%20delle%20Leggi/💍%20Porto-Sentenza%20L'Arsenale%20del%20Valore/image.png|image.png]]
 

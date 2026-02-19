@@ -1,4 +1,4 @@
-# 🌊 Arcipelago Centrale e il Mare delle Nebbie
+# Il Mare delle Nebbie
 
 ## 🌍 Panoramica Generale
 

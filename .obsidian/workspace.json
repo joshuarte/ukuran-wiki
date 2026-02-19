@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "a56e3c3d30c19717",
+        "id": "0097ac18a4baf130",
         "type": "tabs",
         "children": [
           {
-            "id": "7db3a630f3ee3c8e",
+            "id": "98d9196a2c12ca96",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "02_Atlas/I QUATTRO CONTINENTI/❄️Hyperia Il Dominio del Ghiaccio Nero.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "❄️Hyperia Il Dominio del Ghiaccio Nero"
+              "title": "New tab"
             }
           }
         ]
@@ -53,7 +49,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:NPC",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -78,7 +74,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 410.5
+    "width": 522.5
   },
   "right": {
     "id": "2ca460353d17b85f",
@@ -95,7 +91,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "05_Manoscritto/01_AVVENTURE/Atto_II_Eroi_dei_Regni/03_Nodo_C_Isola_Scarti.md",
+                "file": "04_Lore/ABITANTI, CULTURA E PANTHEON/🕯️ Eroi Popolari e Martiri della Fucina.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +101,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 03_Nodo_C_Isola_Scarti"
+              "title": "Backlinks for 🕯️ Eroi Popolari e Martiri della Fucina"
             }
           },
           {
@@ -114,12 +110,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "05_Manoscritto/01_AVVENTURE/Atto_II_Eroi_dei_Regni/03_Nodo_C_Isola_Scarti.md",
+                "file": "04_Lore/ABITANTI, CULTURA E PANTHEON/🕯️ Eroi Popolari e Martiri della Fucina.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from 03_Nodo_C_Isola_Scarti"
+              "title": "Outgoing links from 🕯️ Eroi Popolari e Martiri della Fucina"
             }
           },
           {
@@ -157,43 +153,42 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "05_Manoscritto/01_AVVENTURE/Atto_II_Eroi_dei_Regni/03_Nodo_C_Isola_Scarti.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 03_Nodo_C_Isola_Scarti"
+              "title": "Outline"
             }
           },
           {
-            "id": "2897822e7ff64388",
-            "type": "leaf",
-            "state": {
-              "type": "smart-connections-view",
-              "state": {},
-              "icon": "lucide-ghost",
-              "title": "smart-connections-view"
-            }
-          },
-          {
-            "id": "0bbb936fefec9971",
-            "type": "leaf",
-            "state": {
-              "type": "smart-lookup-view",
-              "state": {},
-              "icon": "lucide-ghost",
-              "title": "smart-lookup-view"
-            }
-          },
-          {
-            "id": "3af634be3a561253",
+            "id": "cfb185d3a3eea0e8",
             "type": "leaf",
             "state": {
               "type": "git-view",
               "state": {},
               "icon": "git-pull-request",
               "title": "Source Control"
+            }
+          },
+          {
+            "id": "0b072457b18941ce",
+            "type": "leaf",
+            "state": {
+              "type": "smart-lookup-view",
+              "state": {},
+              "icon": "smart-lookup",
+              "title": "Lookup"
+            }
+          },
+          {
+            "id": "6965bf6c2228a1e3",
+            "type": "leaf",
+            "state": {
+              "type": "smart-connections-view",
+              "state": {},
+              "icon": "smart-connections",
+              "title": "Connections"
             }
           }
         ],
@@ -222,6 +217,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "smart-connections:Smart Connections: Open random connection": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -231,58 +227,59 @@
       "bases:Create new base": false,
       "smart-connections:Smart Connections: Open connections view": false,
       "smart-connections:Smart Lookup: Open lookup view": false,
-      "smart-connections:Smart Connections: Open random connection": false,
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "594446f48a74e0e2",
+  "active": "98d9196a2c12ca96",
   "lastOpenFiles": [
-    "aggiorna_wiki.bat",
-    "01_Cast/Personaggi Giocanti/Schede_PG/01_Vesper.md",
-    "sync-lor.py",
-    "sync-lore.py",
-    "sync-",
-    "01_Cast/Personaggi Giocanti/Schede_PG/00_PARTY_INFO.md",
-    "04_Lore/Politica/🗺️ Le Grandi Potenze/⚔️ Ferrum.md",
-    "01_Cast/Personaggi Giocanti/Vargan, “Il Debito”.md",
+    "02_Atlas/I QUATTRO CONTINENTI/❄️Hyperia Il Dominio del Ghiaccio Nero/❄️ Kozlov-Grad L'Enigma del Margine.md",
+    "02_Atlas/I QUATTRO CONTINENTI/❄️Hyperia Il Dominio del Ghiaccio Nero",
+    "02_Atlas/I QUATTRO CONTINENTI/❄️Hyperia/❄️ Kozlov-Grad/image.png",
+    "02_Atlas/I QUATTRO CONTINENTI/❄️Hyperia/❄️ Kozlov-Grad.md",
+    "02_Atlas/I QUATTRO CONTINENTI/❄️Hyperia/🧲 Cimacava.md",
+    "02_Atlas/I QUATTRO CONTINENTI/🗼 Etra/🪞 Mindossa/image.png",
+    "02_Atlas/I QUATTRO CONTINENTI/🗼 Etra/🪞 Mindossa",
+    "02_Atlas/I QUATTRO CONTINENTI/🗼 Etra/🪞 Mindossa.md",
+    "02_Atlas/I QUATTRO CONTINENTI/🗼 Etra/🐲 Nuova Brigadail/image.png",
+    "02_Atlas/I QUATTRO CONTINENTI/🗼 Etra/🐲 Nuova Brigadail",
+    "02_Atlas/I QUATTRO CONTINENTI/🗼 Etra/🐲 Nuova Brigadail.md",
+    "02_Atlas/I QUATTRO CONTINENTI/❄️Hyperia/🧲 Cimacava/image.png",
+    "02_Atlas/I QUATTRO CONTINENTI/❄️Hyperia/🧲 Cimacava",
+    "02_Atlas/I QUATTRO CONTINENTI/🗼 Etra/🪞 Mindossa La Fenice di Specchi di Etra/image.png",
+    "02_Atlas/I QUATTRO CONTINENTI/🗼 Etra/🐲 Nuova Brigadail Il Cuore Meccanico dell'Ordine A/image.png",
+    "02_Atlas/I QUATTRO CONTINENTI/🗼 Etra/🪞 Mindossa La Fenice di Specchi di Etra.md",
+    "02_Atlas/I QUATTRO CONTINENTI/🗼 Etra/🪞 Mindossa La Fenice di Specchi di Etra",
+    "02_Atlas/I QUATTRO CONTINENTI/🗼 Etra/🐲 Nuova Brigadail Il Cuore Meccanico dell'Ordine A.md",
+    "02_Atlas/I QUATTRO CONTINENTI/🗼 Etra/image.png",
+    "02_Atlas/I QUATTRO CONTINENTI/🗼 Etra/🐲 Nuova Brigadail Il Cuore Meccanico dell'Ordine A",
+    "02_Atlas/I QUATTRO CONTINENTI/🗼 Etra",
+    "02_Atlas/I QUATTRO CONTINENTI/🏛️ Aethelgard/🔅 Aethel-Primus/image.png",
+    "02_Atlas/I QUATTRO CONTINENTI/🏛️ Aethelgard/💍 Porto-Sentenza/🏃‍♂️ Tabella Inseguimenti Porto-Sentenza (Sede GMA.md",
+    "02_Atlas/I QUATTRO CONTINENTI/🏛️ Aethelgard/🏛️ Elarion-Sapienza/image.png",
+    "02_Atlas/I QUATTRO CONTINENTI/🏛️ Aethelgard/💍 Porto-Sentenza/image.png",
+    "02_Atlas/I QUATTRO CONTINENTI/🏛️ Aethelgard/🔅 Aethel-Primus.md",
+    "02_Atlas/I QUATTRO CONTINENTI/🏛️ Aethelgard/🔅 Aethel-Primus",
+    "02_Atlas/I QUATTRO CONTINENTI/🏛️ Aethelgard/💍 Porto-Sentenza.md",
+    "02_Atlas/I QUATTRO CONTINENTI/🏛️ Aethelgard/💍 Porto-Sentenza",
+    "02_Atlas/I QUATTRO CONTINENTI/🏛️ Aethelgard/🏛️ Elarion-Sapienza",
+    "02_Atlas/I QUATTRO CONTINENTI/🏛️ Aethelgard/🏛️ Elarion-Sapienza.md",
+    "02_Atlas/I QUATTRO CONTINENTI/🏛️ Aethelgard/Varco Dritto.md",
+    "02_Atlas/I QUATTRO CONTINENTI/🌿 Xandaria/🌋 Vulkania (Khor-Vash).md",
+    "02_Atlas/I QUATTRO CONTINENTI/❄️Hyperia/🧲 Cimacava Il Trono nel Cuore.md",
+    "02_Atlas/I QUATTRO CONTINENTI/🏛️ Aethelgard Il Continente delle Leggi/💍 Porto-Sentenza/🏃‍♂️ Tabella Inseguimenti Porto-Sentenza (Sede GMA.md",
     "02_Atlas/I QUATTRO CONTINENTI/🌿 Xandaria Il Continente Selvaggio.md",
-    "02_Atlas/I QUATTRO CONTINENTI/🌿 Xandaria Il Continente Selvaggio.txt",
-    "05_Manoscritto/01_AVVENTURE/Atto_II_Eroi_dei_Regni/03_Nodo_C_Isola_Scarti.md",
-    "05_Manoscritto/IL PREZZO DELL’OBLIO.md",
-    "01_Cast/Background_Integrati/Doni_di_Corvin.md",
-    "01_Cast/🧙🏻‍♂️ Personaggi Non Giocanti/Corvin Aethelmar.md",
-    "05_Manoscritto/01_AVVENTURE/Atto_III_Maestri_dei_Regni/01_La_Quinta_Cicatrice.md",
-    "05_Manoscritto/01_AVVENTURE/Atto_I/03_Sessione_Relitto.md",
-    "02_Atlas/I QUATTRO CONTINENTI/🌿 Xandaria Il Continente Selvaggio/🌋 Vulkania (Khor-Vash) L'Incudine delle Terre di V.md",
-    "02_Atlas/I QUATTRO CONTINENTI/🏛️ Aethelgard Il Continente delle Leggi.md",
-    "02_Atlas/I QUATTRO CONTINENTI/🏛️ Aethelgard Il Continente delle Leggi/🔅 Aethel-Primus Il Pinnacolo della Procedura.md",
-    "02_Atlas/I QUATTRO CONTINENTI/🏛️ Aethelgard Il Continente delle Leggi/💍 Porto-Sentenza L'Arsenale del Valore.md",
-    "05_Manoscritto/01_AVVENTURE/Atto_I/01_Sessione_Ultimo_Favore.md",
-    "04_Lore/Storia/⏳ Il Mondo Com'Era Prima Cronologia di Ukuran.md",
-    "04_Lore/Storia/📜 La Guerra del Desiderio L'Origine del Caos.md",
-    "04_Lore/IL GRANDE QUADRO.md",
-    "04_Lore/I QUATTRO CONTINENTI.md",
-    "04_Lore/INTRODUZIONE.md",
-    "04_Lore/Politica.md",
-    "04_Lore/Storia.md",
-    "05_Manoscritto/01_AVVENTURE/Atto_III_Il_Relitto_tra_le_Ombre.md",
-    "05_Manoscritto/01_AVVENTURE/Atto_II_Eroi_dei_Regni.md",
-    "deep_vault_cleanup.py",
-    "find_duplicates.py",
-    "smart_link_fixer.py",
-    "diagnostic_links.py",
-    "04_Lore/ABITANTI, CULTURA E PANTHEON/🌍 Le Razze nel Mondo/image.png",
-    "cleanup_links.py",
-    "rename_files.sh",
-    "03_Timeline/Timeline Campagna.canvas",
-    "04_Lore/ABITANTI, CULTURA E PANTHEON/🌍 Le Razze nel Mondo/image 1.png",
-    "04_Lore/ABITANTI, CULTURA E PANTHEON/🌍 Le Razze nel Mondo/image 3.png",
-    "04_Lore/ABITANTI, CULTURA E PANTHEON/🌍 Le Razze nel Mondo/image 2.png",
-    "04_Lore/Politica/🗺️ Le Grandi Potenze/💍 La Gilda dei Mercanti Arcani/image.png",
-    "04_Lore/Politica/✍🏻 Organizzazioni/🌐 I Custodi del Velo (CV)/image.png",
-    "04_Lore/Politica/🗺️ Le Grandi Potenze/image.png",
-    "02_Atlas/I QUATTRO CONTINENTI/🗼 Etra (Il Continente d'Acciaio)/🪞 Mindossa La Fenice di Specchi di Etra/image.png",
-    "02_Atlas/I QUATTRO CONTINENTI/🗼 Etra (Il Continente d'Acciaio)/🐲 Nuova Brigadail Il Cuore Meccanico dell'Ordine A/image.png",
-    "02_Atlas/I QUATTRO CONTINENTI/🏛️ Aethelgard Il Continente delle Leggi/🔅 Aethel-Primus Il Pinnacolo della Procedura/image.png"
+    "02_Atlas/🌊 Arcipelago Centrale.md",
+    "02_Atlas/I QUATTRO CONTINENTI/🏛️ Aethelgard Il Continente delle Leggi/🔅 Aethel-Primus.md",
+    "02_Atlas/I QUATTRO CONTINENTI/🏛️ Aethelgard Il Continente delle Leggi/💍 Porto-Sentenza.md",
+    "02_Atlas/I QUATTRO CONTINENTI/🏛️ Aethelgard Il Continente delle Leggi/🏛️ Elarion-Sapienza.md",
+    "02_Atlas/I QUATTRO CONTINENTI/🗼 Etra/🗼 Etra.md",
+    "02_Atlas/I QUATTRO CONTINENTI/🏛️ Aethelgard/🏛️ Aethelgard.md",
+    "02_Atlas/I QUATTRO CONTINENTI/🌿 Xandaria/🌿 Xandaria.md",
+    "02_Atlas/I QUATTRO CONTINENTI/❄️Hyperia/❄️Hyperia.md",
+    "02_Atlas/I QUATTRO CONTINENTI/🌿 Xandaria Il Continente Selvaggio/🌋 Vulkania (Khor-Vash).md",
+    "02_Atlas/I QUATTRO CONTINENTI/❄️Hyperia Il Dominio del Ghiaccio Nero/❄️ Kozlov-Grad.md",
+    "quartz-site/public/03_Timeline/Timeline-Campagna.canvas",
+    "quartz-site/content/03_Timeline/Timeline Campagna.canvas",
+    "03_Timeline/Timeline Campagna.canvas"
   ]
 }

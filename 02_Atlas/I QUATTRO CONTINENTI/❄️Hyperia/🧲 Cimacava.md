@@ -1,4 +1,4 @@
-# 🧲 Cimacava: Il Trono nel Cuore
+# Il Trono nel Cuore
 
 ![[02_Atlas/I%20QUATTRO%20CONTINENTI/❄️Hyperia%20Il%20Dominio%20del%20Ghiaccio%20Nero/🧲%20Cimacava%20Il%20Trono%20nel%20Cuore/image.png|image.png]]
 
