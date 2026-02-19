@@ -1,3 +1,7 @@
+---
+tags: [PG, Gli Ultimi Karilh]
+---
+
 # Aren Valek
 
 ![[../../CAMPAGNA/AVVENTURE/Atto%20II%20Congiure%20e%20Scintille/image.png|image.png]]

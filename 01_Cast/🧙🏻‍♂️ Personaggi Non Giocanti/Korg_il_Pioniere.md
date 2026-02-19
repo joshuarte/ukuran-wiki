@@ -1,5 +1,5 @@
 ---
-tags: [NPC, GMA, Porto-Sentenza, Geniere]
+tags: [NPC, GMA]
 ---
 
 # 👤 Korg il Pioniere

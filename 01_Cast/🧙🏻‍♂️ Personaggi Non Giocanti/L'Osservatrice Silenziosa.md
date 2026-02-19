@@ -1,3 +1,7 @@
+---
+tags: [NPC, AVA]
+---
+
 # L'Osservatrice Silenziosa
 *(Inquisitrice della Terza Torre, Voce del Silenzio)*
 

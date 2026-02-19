@@ -1,3 +1,7 @@
+---
+tags: [PG, Indipendente]
+---
+
 # L'Eptarca di Mindossa (Vylas)
 
 ![[../../CAMPAGNA/AVVENTURE/Atto%20II%20Congiure%20e%20Scintille/image.png|image.png]]

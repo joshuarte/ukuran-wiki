@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "0097ac18a4baf130",
+        "id": "6c83c57fe27c1bc4",
         "type": "tabs",
         "children": [
           {
-            "id": "98d9196a2c12ca96",
+            "id": "4b5778d010d26792",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "04_Lore/ABITANTI, CULTURA E PANTHEON/🕯️ Eroi Popolari e Martiri della Fucina.md",
+                "file": "02_Atlas/I QUATTRO CONTINENTI/🏛️ Aethelgard/🔅 Aethel-Primus.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "🕯️ Eroi Popolari e Martiri della Fucina"
+              "title": "🔅 Aethel-Primus"
             }
           }
         ]
@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:NPC",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -157,13 +157,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "04_Lore/ABITANTI, CULTURA E PANTHEON/🕯️ Eroi Popolari e Martiri della Fucina.md",
+                "file": "02_Atlas/I QUATTRO CONTINENTI/🏛️ Aethelgard/🔅 Aethel-Primus.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 🕯️ Eroi Popolari e Martiri della Fucina"
+              "title": "Outline of 🔅 Aethel-Primus"
             }
           },
           {
@@ -218,7 +218,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 497.5
+    "width": 303.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -235,54 +235,54 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "98d9196a2c12ca96",
+  "active": "4b5778d010d26792",
   "lastOpenFiles": [
-    "04_Lore/Politica/🗺️ Le Grandi Potenze/💍 La Gilda dei Mercanti Arcani.md",
-    "04_Lore/ABITANTI, CULTURA E PANTHEON/🕯️ Eroi Popolari e Martiri della Fucina.md",
-    "04_Lore/Politica/🗺️ Le Grandi Potenze/❄️ Il Sultanato del Ghiaccio Nero.md",
-    "04_Lore/ABITANTI, CULTURA E PANTHEON/🏛️ Guida all'Estetica e Architettura di Ukuran.md",
-    "04_Lore/ABITANTI, CULTURA E PANTHEON/🍞 La Grana del Quotidiano Vivere su Ukuran.md",
-    "04_Lore/ABITANTI, CULTURA E PANTHEON/✨ Il Dualismo di Ukuran Raido e Kanuan.md",
-    "04_Lore/ABITANTI, CULTURA E PANTHEON/🌍 Le Razze nel Mondo.md",
-    "02_Atlas/I QUATTRO CONTINENTI/🏛️ Aethelgard/🔅 Aethel-Primus.md",
     "02_Atlas/I QUATTRO CONTINENTI/🏛️ Aethelgard/💍 Porto-Sentenza.md",
-    "02_Atlas/I QUATTRO CONTINENTI/🏛️ Aethelgard/🏛️ Elarion-Sapienza.md",
+    "02_Atlas/I QUATTRO CONTINENTI/🏛️ Aethelgard/🏛️ Aethelgard.md",
+    "02_Atlas/I QUATTRO CONTINENTI/🌿 Xandaria/🌋 Vulkania (Khor-Vash).md",
+    "02_Atlas/I QUATTRO CONTINENTI/🌿 Xandaria/🌿 Xandaria.md",
     "02_Atlas/I QUATTRO CONTINENTI/❄️Hyperia/🧲 Cimacava.md",
+    "02_Atlas/I QUATTRO CONTINENTI/❄️Hyperia/❄️Hyperia.md",
+    "02_Atlas/🌊 Arcipelago Centrale.md",
+    "02_Atlas/🌫️ Le Zone di Caduta del Segnale.md",
+    "02_Atlas/I QUATTRO CONTINENTI/❄️Hyperia/❄️ Kozlov-Grad.md",
+    "01_Cast/🧙🏻‍♂️ Personaggi Non Giocanti/Kharsh, l’ancora di Brina.md",
+    "01_Cast/🧙🏻‍♂️ Personaggi Non Giocanti/Corvin Aethelmar.md",
+    "99_Allegati/🗼 Etra.png",
+    "99_Allegati/🗺️ Le Grandi Potenze.png",
+    "99_Allegati/💍 Porto-Sentenza.png",
+    "99_Allegati/🏛️ Elarion-Sapienza.png",
+    "99_Allegati/🌐 I Custodi del Velo (CV).png",
+    "99_Allegati/🌍 Le Razze nel Mondo_2.png",
+    "99_Allegati/🌍 Le Razze nel Mondo_1.png",
+    "99_Allegati/🌍 Le Razze nel Mondo.png",
+    "99_Allegati/🌋 Vulkania (Khor-Vash).png",
+    "99_Allegati/❄️Hyperia.png",
+    "01_Cast/Personaggi Giocanti/Schede_PG/03_Eptarca.md",
+    "01_Cast/Personaggi Giocanti/Schede_PG/02_Aren_Valek.md",
+    "01_Cast/Personaggi Giocanti/Schede_PG/01_Vesper.md",
+    "01_Cast/Personaggi Giocanti/Schede_PG/04_Vargan.md",
+    "01_Cast/cast.md",
+    "01_Cast/🧙🏻‍♂️ Personaggi Non Giocanti/Alaric_Voss.md",
+    "01_Cast/🧙🏻‍♂️ Personaggi Non Giocanti/L'Osservatrice Silenziosa.md",
+    "01_Cast/🧙🏻‍♂️ Personaggi Non Giocanti/Comandante_Krell.md",
+    "04_Lore/BESTIARIO E PERICOLI/👾 Tassonomia delle Minacce nell'Era della Convenzi.md",
+    "04_Lore/BESTIARIO E PERICOLI/🍃 Biodiversità e Fauna Continentale.md",
+    "04_Lore/BESTIARIO E PERICOLI/🔮 Le cicatrici del mana.md",
+    "04_Lore/ABITANTI, CULTURA E PANTHEON/🍞 La Grana del Quotidiano Vivere su Ukuran.md",
+    "01_Cast/Personaggi Giocanti/Schede_PG/00_PARTY_INFO.md",
+    "01_Cast/🧙🏻‍♂️ Personaggi Non Giocanti/Valerius_Vane.md",
+    "01_Cast/🧙🏻‍♂️ Personaggi Non Giocanti/Korg_il_Pioniere.md",
+    "refactor_wiki_links.py",
     "finish_image_refactor.py",
-    "99_Allegati/assets_7.png",
-    "99_Allegati/assets_6.png",
-    "99_Allegati/assets_5.png",
-    "99_Allegati/assets_4.png",
-    "99_Allegati/assets_3.png",
-    "99_Allegati/assets_2.png",
-    "99_Allegati/assets_1.png",
-    "99_Allegati/sdf-10.png",
-    "99_Allegati/assets.png",
-    "99_Allegati/smistamento-ava.png",
     "process_all_images.py",
     "clean_empty_folders.py",
-    "02_Atlas/I QUATTRO CONTINENTI/❄️Hyperia/❄️Hyperia.md",
-    "02_Atlas/I QUATTRO CONTINENTI/❄️Hyperia/❄️ Kozlov-Grad.md",
-    "02_Atlas/I QUATTRO CONTINENTI/🏛️ Aethelgard/Varco Dritto.md",
     "fix_images.py",
-    "🏛️ Aethelgard Il Continente delle Leggi.md",
-    "05_Manoscritto/01_AVVENTURE/Atto_I/01_Sessione_Ultimo_Favore.md",
     "99_Allegati",
-    "02_Atlas/I QUATTRO CONTINENTI/❄️Hyperia Il Dominio del Ghiaccio Nero/❄️ Kozlov-Grad L'Enigma del Margine.md",
     "02_Atlas/I QUATTRO CONTINENTI/❄️Hyperia Il Dominio del Ghiaccio Nero",
     "02_Atlas/I QUATTRO CONTINENTI/🗼 Etra/🪞 Mindossa",
-    "02_Atlas/I QUATTRO CONTINENTI/🗼 Etra/🪞 Mindossa.md",
     "02_Atlas/I QUATTRO CONTINENTI/🗼 Etra/🐲 Nuova Brigadail",
-    "02_Atlas/I QUATTRO CONTINENTI/🗼 Etra/🐲 Nuova Brigadail.md",
     "02_Atlas/I QUATTRO CONTINENTI/❄️Hyperia/🧲 Cimacava",
-    "02_Atlas/I QUATTRO CONTINENTI/🗼 Etra/🪞 Mindossa La Fenice di Specchi di Etra.md",
-    "02_Atlas/I QUATTRO CONTINENTI/🗼 Etra/🪞 Mindossa La Fenice di Specchi di Etra",
-    "02_Atlas/I QUATTRO CONTINENTI/🗼 Etra/🐲 Nuova Brigadail Il Cuore Meccanico dell'Ordine A.md",
-    "02_Atlas/I QUATTRO CONTINENTI/🏛️ Aethelgard/💍 Porto-Sentenza/🏃‍♂️ Tabella Inseguimenti Porto-Sentenza (Sede GMA.md",
-    "02_Atlas/I QUATTRO CONTINENTI/🌿 Xandaria/🌋 Vulkania (Khor-Vash).md",
-    "02_Atlas/I QUATTRO CONTINENTI/❄️Hyperia/🧲 Cimacava Il Trono nel Cuore.md",
-    "02_Atlas/I QUATTRO CONTINENTI/🏛️ Aethelgard Il Continente delle Leggi/💍 Porto-Sentenza/🏃‍♂️ Tabella Inseguimenti Porto-Sentenza (Sede GMA.md",
-    "02_Atlas/I QUATTRO CONTINENTI/🌿 Xandaria Il Continente Selvaggio.md",
     "quartz-site/public/03_Timeline/Timeline-Campagna.canvas",
     "quartz-site/content/03_Timeline/Timeline Campagna.canvas",
     "03_Timeline/Timeline Campagna.canvas"

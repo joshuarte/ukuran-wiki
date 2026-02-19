@@ -1,7 +1,6 @@
 ---
-tags: [NPC, GMA, Porto-Sentenza, Session_1]
+tags: [NPC, GMA]
 ---
-
 # 👤 Alaric Voss
 **Ruolo:** Arbitro di Rotta (GMA)
 **Locazione:** Porto-Sentenza - Magazzino 42

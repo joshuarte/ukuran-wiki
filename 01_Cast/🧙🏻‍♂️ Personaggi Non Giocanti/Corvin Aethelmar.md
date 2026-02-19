@@ -1,3 +1,7 @@
+---
+tags: [NPC, Gilda dei Mercanti Arcani]
+---
+
 # Corvin Aethelmar
 
 ![[99_Allegati/Corvin Aethelmar.png|Corvin Aethelmar.png]]

@@ -1,5 +1,5 @@
 ---
-tags: [NPC, Custodi, Porto-Sentenza, Antagonist]
+tags: [NPC, Custodi del Velo]
 ---
 
 # 👤 Comandante Krell

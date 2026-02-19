@@ -1,3 +1,7 @@
+---
+tags: [PG, Xandaria]
+---
+
 # Vargan, “Il Debito”
 
 ![[99_Allegati/Vargan, “Il Debito”.png|Vargan, “Il Debito”.png]]

@@ -1,3 +1,7 @@
+---
+tags: [NPC, Gli Ultimi Karilh]
+---
+
 # Kharsh, l’ancora di Brina
 
 **Maestro dell’Ordine de [[🌐 Gli Ultimi Karilh|🌐 Gli Ultimi Karilh]] | Uno dei Dieci Erranti**

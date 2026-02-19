@@ -1,5 +1,5 @@
 ---
-tags: [NPC, AVA, Porto-Sentenza, Session_1, Antagonist]
+tags: [NPC, AVA]
 ---
 
 # 👤 Valerius Vane

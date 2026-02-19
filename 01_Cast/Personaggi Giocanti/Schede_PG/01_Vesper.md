@@ -1,3 +1,7 @@
+---
+tags: [PG, Gilda dei Mercanti Arcani]
+---
+
 # Vesper, Elias, Tamara, Chrogg’Nor, Karrach, Brynna, Alysia
 
 ![[../../CAMPAGNA/AVVENTURE/Atto%20II%20Congiure%20e%20Scintille/image.png|image.png]]
