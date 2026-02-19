@@ -1,5 +1,8 @@
 {
   "attachmentFolderPath": "99_Allegati",
   "newLinkFormat": "shortest",
-  "alwaysUpdateLinks": true
+  "alwaysUpdateLinks": true,
+  "userIgnoreFilters": [
+    "quartz-site/"
+  ]
 }
